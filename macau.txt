@@ -1373,11 +1373,11 @@ footer .footer_bottom {
 							<h1><span>⚡Toto Macau Tiap Hari Gacor dapatkan Disini⚡</h1> 
 
 							<div class="section_btn">
-								<a href="wowterus.online/server-toto" 
+								<a href="https://wowterus.online/server-toto" 
 								target="_blank" rel="nofollow" title="daftar"> <button class="btn btn-default"
 										type="submit">Login toto macau</button> </a>
                             <div class="section_btn">
-                                <a href="wowterus.online/dana-segar" 
+                                <a href="https://wowterus.online/dana-segar" 
                                         target="_blank" rel="nofollow" title="daftar"> <button class="btn btn-default"
                                                     type="submit">Livechat toto macau</button> </a>
 							</div>
