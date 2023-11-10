@@ -7,7 +7,7 @@
 <meta name="theme-color" content="">
 <meta name="google-site-verification" content="xsZI7KtWWUZ7kVUQKne6ukxK9zugBf50ciWCtgWVhcs" />
 <link rel="amphtml" href="https://bananka.club/slot-gacor/">
-<link rel="canonical" href="https://lebongkab.bawaslu.go.id/shop/gacor/">
+<link rel="canonical" href="https://lebongkab.bawaslu.go.id/product/new/">
 <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
 <title>Slot Gacor Hari Ini 👑 Temukan Situs Slot Gacor dan Tips Gampang Menang di Slot Gacor Maxwin</title>
 <meta name="description" content="Temukan pengalaman bermain slot terbaik dengan informasi terbaru tentang slot gacor hari ini. Jelajahi situs slot gacor terpercaya dan dapatkan tips gampang menang untuk meraih kemenangan besar di slot gacor Maxwin. Segera rasakan sensasi kemenangan Terbaik.">
@@ -36,7 +36,7 @@
 <link rel="preload" as="image" href="https://iili.io/JBvlRI9.md.png?v=1698287890" />
 <meta name="supported-amp-formats" content="websites, stories, ads, email">
 <meta property="og:site_name" content="SLOT GACOR">
-<meta property="og:url" content="https://lebongkab.bawaslu.go.id/shop/gacor/">
+<meta property="og:url" content="https://lebongkab.bawaslu.go.id/product/new/">
 <meta property="og:title" content="Slot Gacor Hari Ini 👑 Temukan Situs Slot Gacor dan Tips Gampang Menang di Slot Gacor Maxwin">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Temukan pengalaman bermain slot terbaik dengan informasi terbaru tentang slot gacor hari ini. Jelajahi situs slot gacor terpercaya dan dapatkan tips gampang menang untuk meraih kemenangan besar di slot gacor Maxwin. Segera rasakan sensasi kemenangan Terbaik."><meta property="og:image" content="https://iili.io/JBvlRI9.md.png?v=1698287890">
@@ -51,7 +51,7 @@
 <script src="//djancok.walesbonner.net/cdn/shop/t/2/assets/constants.js?v=58251544750838685771698286427" defer="defer"></script>
 <script src="//djancok.walesbonner.net/cdn/shop/t/2/assets/pubsub.js?v=158357773527763999511698286428" defer="defer"></script>
 <script src="//djancok.walesbonner.net/cdn/shop/t/2/assets/global.js?v=54939145903281508041698286427" defer="defer"></script><script src="//djancok.walesbonner.net/cdn/shop/t/2/assets/animations.js?v=88693664871331136111698286426" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/83838828831/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://lebongkab.bawaslu.go.id/shop/gacor/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://lebongkab.bawaslu.go.id/product/new/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script><script id="shopify-features" type="application/json">{"accessToken":"a23250564eaf32c2bba1cd3248942d78","betas":["rich-media-storefront-analytics"],"domain":"djancok.walesbonner.net","predictiveSearch":true,"shopId":83838828831,"smart_payment_buttons_url":"https://djancok.walesbonner.net/cdn/shopifycloud/payment-sheet/assets/latest/spb.en.js","dynamic_checkout_cart_url":"https://djancok.walesbonner.net/cdn/shopifycloud/payment-sheet/assets/latest/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":false}</script>
 <script>var Shopify = Shopify || {};
 Shopify.shop = "be7fd1-3.myshopify.com";
@@ -1719,7 +1719,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--21402030113055__main"
-          value="https://lebongkab.bawaslu.go.id/shop/gacor/"
+          value="https://lebongkab.bawaslu.go.id/product/new/"
           placeholder="Link"
           onclick="this.select();"
           readonly>
