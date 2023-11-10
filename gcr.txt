@@ -23,7 +23,7 @@
 <meta name="author" content="SLOT GACOR">
 <meta name="distribution" content="global">
 <meta name="publisher" content="SLOT GACOR">
-<meta name="geo.placename" content="DKI Jakarta">sz
+<meta name="geo.placename" content="DKI Jakarta">
 <meta name="geo.country" content="ID">
 <meta name="geo.region" content="ID" />
 <meta name="tgn.nation" content="Indonesia">
