@@ -9,7 +9,7 @@
     <meta name="robots" content="index, follow" />
     <link rel="icon" href="https://www.svgrepo.com/show/303166/wonder-woman-logo.svg" type="image/x-icon" />
     <link rel="amphtml" href="https://slot1131.com/bek/demo/">
-    <link rel="canonical" href="https://sertajaya.bekasikab.go.id/font/daftar-sekarang/">
+    <link rel="canonical" href="https://sertajaya.bekasikab.go.id/font/daftar-demo/">
     <meta name="language" content="ID">
     <meta name="distribution" content="global">
     <meta name="geo.placename" content="DKI Jakarta">
@@ -21,7 +21,7 @@
     <title> Situs Main Slot Demo Pragmatic & Saldo Bisa Cair 🤖  </title>
     <meta name="description" content="Situs slot demo pragmatic & pgsoft rekomendasi langsung dari google. Mainkan slot demo pragmatic & pgsoft di situs slot demo pasti maxwin sekarang juga. Cairkan saldo dari game slot demo pragmatic & pgsoft di situs slot demo terpercaya mudah menang. Proses cepat dan amanah, saldo langsung cair ke rekening anda secepat kilat.">
     <meta property="og:site_name" content="Slot Demo">
-    <meta property="og:url" content="https://sertajaya.bekasikab.go.id/font/daftar-sekarang/">
+    <meta property="og:url" content="https://sertajaya.bekasikab.go.id/font/daftar-demo/">
     <meta property="og:title" content="Situs Main Slot Demo Pragmatic & Saldo Bisa Cair 🤖 ">
     <meta property="og:type" content="product">
     <meta property="og:description" content="Situs slot demo pragmatic & pgsoft rekomendasi langsung dari google. Mainkan slot demo pragmatic & pgsoft di situs slot demo pasti maxwin sekarang juga. Cairkan saldo dari game slot demo pragmatic & pgsoft di situs slot demo terpercaya mudah menang. Proses cepat dan amanah, saldo langsung cair ke rekening anda secepat kilat.">
@@ -42,7 +42,7 @@
       window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');
     </script>
     <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/55827628081/digital_wallets/dialog">
-    <link rel="alternate" type="application/json+oembed" href="https://sertajaya.bekasikab.go.id/font/daftar-sekarang/.oembed">
+    <link rel="alternate" type="application/json+oembed" href="https://sertajaya.bekasikab.go.id/font/daftar-demo/.oembed">
     <script async="async" src="https://perpustakaan.ukitoraja.ac.id/nothuman/shopify/checkouts/internal/preloadsf399.js?locale=en-ID"></script>
     <script id="shopify-features" type="application/json">
       {
@@ -82,7 +82,7 @@
       };
       Shopify.cdnHost = "c95b8f.myshopify.com/cdn";
       Shopify.routes = Shopify.routes || {};
-      Shopify.routes.root = "https://sertajaya.bekasikab.go.id/font/daftar-sekarang/";
+      Shopify.routes.root = "https://sertajaya.bekasikab.go.id/font/daftar-demo/";
     </script>
     <script type="module">
       ! function(o) {
@@ -631,7 +631,7 @@
             self.performance.mark("wpm:start")
           } catch (e) {}
         }
-        var p, f, y, h, v, m, w, g, b, _ = [a, "/wpm", "https://sertajaya.bekasikab.go.id/font/daftar-sekarang/", c, r, l, ".js"].join("");
+        var p, f, y, h, v, m, w, g, b, _ = [a, "/wpm", "https://sertajaya.bekasikab.go.id/font/daftar-demo/", c, r, l, ".js"].join("");
         f = (p = {
           src: _,
           async: !0,
@@ -1551,7 +1551,7 @@
                   <p class="product__text inline-richtext caption-with-letter-spacing">Slot Demo</p>
                   <div class="product__title">
                     <h1>Situs Main Slot Demo Pragmatic & Saldo Bisa Cair 🤖 </h1>
-                    <a href="https://sertajaya.bekasikab.go.id/font/daftar-sekarang/" class="product__title">
+                    <a href="https://sertajaya.bekasikab.go.id/font/daftar-demo/" class="product__title">
                       <h2 class="h1"> Situs Main Slot Demo Pragmatic & Saldo Bisa Cair 🤖  </h2>
                     </a>
                   </div>
@@ -1713,7 +1713,7 @@
                       <div class="share-button__fallback motion-reduce">
                         <div class="field">
                           <span id="ShareMessage-template--14552639176753__main" class="share-button__message hidden" role="status"></span>
-                          <input type="text" class="field__input" id="ShareUrl-template--14552639176753__main" value="https://https://sertajaya.bekasikab.go.id/font/daftar-sekarang/" placeholder="Link" onclick="this.select();" readonly>
+                          <input type="text" class="field__input" id="ShareUrl-template--14552639176753__main" value="https://https://sertajaya.bekasikab.go.id/font/daftar-demo/" placeholder="Link" onclick="this.select();" readonly>
                           <label class="field__label" for="ShareUrl-template--14552639176753__main">Link</label>
                         </div>
                         <button class="share-button__close hidden no-js-hidden">
@@ -1731,7 +1731,7 @@
                       </div>
                     </details>
                   </share-button>
-                  <a href="https://sertajaya.bekasikab.go.id/font/daftar-sekarang/" class="link product__view-details animate-arrow"> View full details <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+                  <a href="https://sertajaya.bekasikab.go.id/font/daftar-demo/" class="link product__view-details animate-arrow"> View full details <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
                       <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
                     </svg>
                   </a>
@@ -1891,7 +1891,7 @@
       <li id="a11y-new-window-message">Opens in a new window.</li>
     </ul>
     <script>
-      window.shopUrl = 'https://sertajaya.bekasikab.go.id/font/daftar-sekarang/';
+      window.shopUrl = 'https://sertajaya.bekasikab.go.id/font/daftar-demo/';
       window.routes = {
         cart_add_url: '/cart/add',
         cart_change_url: '/cart/change',
