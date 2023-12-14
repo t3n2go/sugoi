@@ -709,7 +709,7 @@
           "productVariants": [{
             "id": "40098768781361",
             "image": {
-              "src": ""
+              "src": "https://slot1131.com/img/2.jpg"
             },
             "price": {
               "amount": 25000.0,
@@ -734,7 +734,7 @@
           "productVariant": {
             "id": "40098768781361",
             "image": {
-              "src": ""
+              "src": "https://slot1131.com/img/2.jpg"
             },
             "price": {
               "amount": 25000.0,
@@ -1777,7 +1777,7 @@
                 "@type": "Product",
                 "name": "Rekomendasi Situs Slot Gacor Garansi Kemenangan 🤖 ",
                 "url": "https:\/\/pmb.stitmadinasragen.ac.id\/pages\/z-hk\/",
-                "image": [""],
+                "image": ["https://slot1131.com/img/2.jpg"],
                 "description": "\nTerbaru dan terhangat rekomendasi situs slot gacor terpercaya berintegritas. Situs slot online terpercaya yang memiliki banyak sekali pilihan permainan yang gacor dijamin mudah maxwin. situs slot gacor 1131 adalah situs slot gacor yang telah direkomendasi oleh google dan memiliki sertifikat resmi pasti bisa menang maximal. Tunggu apalagi langsung saja coba mainkan dan rasakan jackpot sekarang juga hanya di situs slot gacor 1131.",
                 "brand": {
                   "@type": "Brand",
