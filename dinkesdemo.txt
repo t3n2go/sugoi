@@ -36,7 +36,7 @@
     <link rel="preload" as="image" href="https://slot1131.com/img/slot-demo-terbaik.jpg?v=1698287890"/>
     <meta name="supported-amp-formats" content="websites, stories, ads, email">
 <meta property="og:site_name" content="Link Situs Slot Demo Terbaik Kusus Pragmatic & Pgsoft 🍙">
-<meta property="og:url" content="https://sipandu.dinkes.musirawaskab.go.id">
+<meta property="og:url" content="https://sipandu.dinkes.musirawaskab.go.id/img/demo/">
 <meta property="og:title" content="Link Situs Slot Demo Terbaik Kusus Pragmatic & Pgsoft 🍙">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Situs slot demo server thailand anti lag. Banyak pilihan game slot demo pragmatic & pgsoft yang dapat anda mainkan dengan bebas. Claim bonus kemenangan dari situs slot demo gampang maxwin sekarang juga."><meta property="og:image" content="https://slot1131.com/img/slot-demo-terbaik.jpg?v=1698287890">
@@ -51,7 +51,7 @@
     <script src="//www.nino-nakano.store/cdn/shop/t/1/assets/constants.js?v=58251544750838685771698286427" defer="defer"></script>
     <script src="//www.nino-nakano.store/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511698286428" defer="defer"></script>
     <script src="//www.nino-nakano.store/cdn/shop/t/1/assets/global.js?v=54939145903281508041698286427" defer="defer"></script><script src="//www.nino-nakano.store/cdn/shop/t/1/assets/animations.js?v=88693664871331136111698286426" defer="defer"></script><script>window.performance&&window.performance.mark&&window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/83838828831/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://sipandu.dinkes.musirawaskab.go.id.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://sipandu.dinkes.musirawaskab.go.id/img/demo/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script><script id="shopify-features" type="application/json">{"accessToken":"a23250564eaf32c2bba1cd3248942d78","betas":["rich-media-storefront-analytics"],"domain":"djancok.walesbonner.net","predictiveSearch":true,"shopId":83838828831,"smart_payment_buttons_url":"https:\/\/djancok.walesbonner.net\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/djancok.walesbonner.net\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":false}</script>
 <script>var Shopify=Shopify||{};Shopify.shop="be7fd1-3.myshopify.com";Shopify.locale="en";Shopify.currency={"active":"IDR","rate":"1.0"};Shopify.country="ID";Shopify.theme={"name":"Sense","id":161879720223,"theme_store_id":1356,"role":"main"};Shopify.theme.handle="null";Shopify.theme.style={"id":null,"handle":null};Shopify.cdnHost="djancok.walesbonner.net/cdn";Shopify.routes=Shopify.routes||{};Shopify.routes.root="/";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
@@ -573,9 +573,9 @@ Item added to your cart
 
     <script src="//www.nino-nakano.store/cdn/shop/t/1/assets/pickup-availability.js?v=7543877057949731971698286428" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden">
-                  <p><a href="https://main-slot1131.beauty/sul/naga-demo/" title="Slot Dana"><img src="https://slot1131.com/img/tomboldaftarsd.jpg" data-mce-fragment="1" data-mce-src="https://slot1131.com/img/tomboldaftarsd.jpg"></a></p>
+                  <p><a href="https://main-slot1131.beauty/din/naga-demo/" title="Slot Dana"><img src="https://slot1131.com/img/tomboldaftarsd.jpg" data-mce-fragment="1" data-mce-src="https://slot1131.com/img/tomboldaftarsd.jpg"></a></p>
                   
-<p><a href="https://sipandu.dinkes.musirawaskab.go.id"><strong>Link Daftar Slot Demo</strong></a> terbaik menjamin jackpot x500 malam ini.</p>
+<p><a href="https://sipandu.dinkes.musirawaskab.go.id/img/demo/"><strong>Link Daftar Slot Demo</strong></a> terbaik menjamin jackpot x500 malam ini.</p>
 <h3>Slot Demo Maxwin Jadi Uang.</h3>
 <p>Bermain slot demo tidak memerlukan modal tapi bisa anda cairkan langsung menjadi rupiah. Situs slot demo dijamin anti nawala.</p>
 <h3> Gampang Maxwin Main Demo Slot Rekomendasi Resmi Google.</h3>
@@ -607,7 +607,7 @@ Item added to your cart
     <div class="share-button__fallback motion-reduce">
       <div class="field">
         <span id="ShareMessage-template--21402030113055__main" class="share-button__message hidden" role="status"> </span>
-        <input type="text" class="field__input" id="ShareUrl-template--21402030113055__main" value="https://sipandu.dinkes.musirawaskab.go.id" placeholder="Link" onclick="this.select();" readonly>
+        <input type="text" class="field__input" id="ShareUrl-template--21402030113055__main" value="https://sipandu.dinkes.musirawaskab.go.id/img/demo/" placeholder="Link" onclick="this.select();" readonly>
         <label class="field__label" for="ShareUrl-template--21402030113055__main">Link</label>
       </div>
       <button class="share-button__close hidden no-js-hidden">
