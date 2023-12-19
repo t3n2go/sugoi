@@ -663,7 +663,7 @@ Item added to your cart
       "image": [
           "https:\/\/springharborlife.org\/cdn\/shop\/files\/springharborlife.org/gambar/slot-gacor2023.jpg?v=1698287890\u0026width=1920"
         ],
-      "description": "permainan cau at maca, lihatu adalah perjudian tebak menebak angka hasil keluaran macau malam ini. Keluaran macau hari ini adalah hasil result togel macau paling akurat hari ini. Data Macau hari ini menjadi informasi terpercaya bagi para pemain tebak angka main toto macau.",
+      "description": "Prediksi togel macau 2D 3D 4D paling akurat setiap hari. Keluaran data macau terbaru dari toto macau.",
       
       "brand": {
         "@type": "Brand",
