@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <link rel="amphtml" href="https://slot1131.lol/bgr/gacor/">
-    <link rel="canonical" href="https://dp3ap2kb.bogorkab.go.id/public_html/rank1/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+    <link rel="canonical" href="https://dp3ap2kb.bogorkab.go.id/rank1/"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       SLOT1131 : Situs Slot Gacor Hari Ini Terpercaya Sangat Gacor Parah
  &ndash; My Store</title>
 
@@ -18,7 +18,7 @@
     
 
 <meta property="og:site_name" content="My Store">
-<meta property="og:url" content="https://dp3ap2kb.bogorkab.go.id/public_html/rank1/">
+<meta property="og:url" content="https://dp3ap2kb.bogorkab.go.id/rank1/">
 <meta property="og:title" content="SLOT1131 : Situs Slot Gacor Hari Ini Terpercaya Sangat Gacor Parah">
 <meta property="og:type" content="product">
 <meta property="og:description" content="SLOT1131 adalah penyedia produk slot gacor yang paling terpercaya dijamin sangat gacor parah. Link slot gacor hari ini telah masuk rekomendasi dari semua pakar judi slot di indonesia. Daftar slot gacor hari ini sekarang juga dan dapatkan bonus menarik setiap hari."><meta property="og:image" content="http://467c2b-2.myshopify.com/cdn/shop/files/gacor9.jpg?v=1705572342">
@@ -33,7 +33,7 @@
     <script src="//467c2b-2.myshopify.com/cdn/shop/t/1/assets/constants.js?v=58251544750838685771705571539" defer="defer"></script>
     <script src="//467c2b-2.myshopify.com/cdn/shop/t/1/assets/pubsub.js?v=158357773527763999511705571547" defer="defer"></script>
     <script src="//467c2b-2.myshopify.com/cdn/shop/t/1/assets/global.js?v=40820548392383841591705571542" defer="defer"></script><script src="//467c2b-2.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111705571523" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/85153579287/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://dp3ap2kb.bogorkab.go.id/public_html/rank1/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://dp3ap2kb.bogorkab.go.id/rank1/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?permanent-domain=467c2b-2.myshopify.com&locale=en-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"5149e8878ce44c7317a74933bcd269fa","betas":["rich-media-storefront-analytics"],"domain":"467c2b-2.myshopify.com","predictiveSearch":true,"shopId":85153579287,"smart_payment_buttons_url":"https:\/\/467c2b-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/467c2b-2.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"shopPromisePDPV3Enabled":true,"shopPromiseVariantForOptimusEnabled":false}</script>
 <script>var Shopify = Shopify || {};
