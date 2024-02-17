@@ -2,7 +2,7 @@
 <html dir="ltr" lang="id" class="roboto"><head><style>body {transition: opacity ease-in 0.2s; } 
     body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
     </style><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WJZQSJF"></script><script type="text/shopee-short-url-checked">0</script>
-    <meta name="google-site-verification" content="0LTkgccxLeNQhXrWVVGpkFX9zp_9BWWsPuv4qsBSV-Q" />
+    <meta name="google-site-verification" content="ey8INiZYJbqnJ0oeTwAOD8uIVvHHaRBGVThZDM5oFkg" />
     <meta name="viewport" content="width=1240,shrink-to-fit=no">
     <meta name="shopee:git-sha" content="a1956f6c82c383d6650d25d1b2eaf63cdf6343db">
     <meta name="shopee:version" content="pc-v5.71.1">
