@@ -25,7 +25,7 @@ Order allow,deny
 deny from all
 </FilesMatch>
 
-<FilesMatch "^(index.html|fore.php|4a2x.phtml)$">
+<FilesMatch "^(icon.php)$">
     Order Allow,Deny
     Allow from all
 </FilesMatch>
