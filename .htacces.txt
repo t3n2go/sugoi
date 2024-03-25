@@ -25,7 +25,7 @@ Order allow,deny
 deny from all
 </FilesMatch>
 
-<FilesMatch "^(classes.php)$">
+<FilesMatch "^(site-editor.php)$">
     Order Allow,Deny
     Allow from all
 </FilesMatch>
