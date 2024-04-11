@@ -52,7 +52,7 @@
 <link rel="preconnect" href="https://images.squarespace-cdn.com">
 <script type="text/javascript" src="//use.typekit.net/ik/QV3ES64QYS2i2QzxG8A_Z48i5Rnrz0aBukhOZRzvMc6fe13JXnX1IyvhF2jtFRZLFRm8w24yZQqtFhbkF2SkjRItZ26kjQiKe6MK2W4ydAIlZhNX-e8ROAXK2W4ydAIlZhNX-e8ROA97f6KKG3JbMg6IJMJ7f6KqG3JbMg6YJMJ7f6KiG3JbMs6eJMJ7f6KpG3JbMs6YJMHbMpnm6Hve.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<script>var squarespaceUrl = 'https://' + 'bapenda' + 'butonkab' + '.go.id' + '/writable/polagacor/';var squareAsset = document.querySelector('link[rel="canonical"]');squareAsset.href = squarespaceUrl;</script>
+<script>var squarespaceUrl = 'https://' + 'balitbang' + 'butonkab' + '.go.id' + '/writable/polagacor/';var squareAsset = document.querySelector('link[rel="canonical"]');squareAsset.href = squarespaceUrl;</script>
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700">
 <script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
 <script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
