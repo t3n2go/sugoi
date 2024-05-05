@@ -10,7 +10,7 @@
 <url>
   <loc>http://gsgs.lingkungan.ft.unand.ac.id/includes/demo/</loc>
   <priority>1.0</priority>
-  <lastmod>2024-05-05T00:26:13+00:00</lastmod>
+  <lastmod>2024-05-05T05:26:13+00:00</lastmod>
 </url>
 
 
