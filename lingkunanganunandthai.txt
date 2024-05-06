@@ -1,6 +1,3 @@
-
-
-
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
   <head>
@@ -19,6 +16,7 @@
 <meta name="geo.region" content="ID" />
 <meta name="tgn.nation" content="Indonesia">
 <meta property="og:locale" content="id_ID" />
+<meta name="google-site-verification" content="TIl_O9ZWeqwSSy9tMgr0QMr-60dnAiUqoHl8mtQqJUs" />
 <title>SLOT THAILAND 🔫 Daftar Link Slot Gacor Online 4D Auto Mudah Maxwin Tergacor Parah 2024 Gampang Menang!</title>
 <meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
 <link rel="amphtml" href="http://168terpercaya.com/una/thaigacor/">
