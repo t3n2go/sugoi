@@ -8,7 +8,7 @@
 
 
 <url>
-  <loc>https://rumahmoderasi.iaingorontalo.ac.id/wp-content/demo/</loc>
+  <loc>https://rumahmoderasi.iaingorontalo.ac.id/product/demo/</loc>
   <priority>1.0</priority>
   <lastmod>2024-05-13T06:00:13+00:00</lastmod>
 </url>
