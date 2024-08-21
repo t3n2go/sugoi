@@ -19,7 +19,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.postimg.cc/ZR5J7XGH/FAVICON.jpg" />
   <link rel="canonical" href="https://lakip.tegalkota.go.id/xmaxweinz/" />
-  <link rel="amphtml" href="https://168terpercaya.com/mag/gampangmenang/">
+  <link rel="amphtml" href="https://168terpercaya.com/teg/pages1/">
   <!-- start preload -->
   <link rel="preload" href="https://i.postimg.cc/3xNZFxz4/SLOT-THAILAND-1-2.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
