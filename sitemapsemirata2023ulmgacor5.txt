@@ -8,7 +8,7 @@
 
 
 <url>
-  <loc>https://semirata2023.ulm.ac.id/wp-includes/pack/</loc>
+  <loc>https://semirata2023.ulm.ac.id/web/wp-includes/pack/</loc>
   <lastmod>2024-10-08T12:00:07+00:00</lastmod>
 </url>
 
